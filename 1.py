@@ -8,5 +8,9 @@ def main():
 def add(p, q):
     t = p+q
     return t
+
+def substract(p, q):
+    t = p-q
+    return t
 if __name__ =='__main__':
     main()
